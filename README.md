@@ -18,7 +18,7 @@ A Node.js script that fetches random jokes from the Official Joke API and displa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CLI-Random-Joke-Generator.gi
+git clone https://github.com/yourusername/CLI-Random-Joke-Generator.git
 
 ```
 2 . Install dependencies:
