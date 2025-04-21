@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "chalk": "^5.4.0"
+  },
+  "name": "random-joke-generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
